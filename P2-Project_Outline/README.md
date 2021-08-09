@@ -7,12 +7,12 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+I will be making a inventory management system. The app will notify when a product needs to be refilled. It will allow the user to keep up to date on when to refill supplies. The idea came from my current job.
 ### Features
-Include Features here
+a login,search functionality, low supply alert
 ### Technologies
-Include Technologies here
+reactjs., jsx
 ### What I'll Have to Learn
-Include what you will need to learn here
+reactjs., jsx
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/joshrhodes23/boards
