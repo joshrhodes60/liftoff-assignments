@@ -11,8 +11,8 @@ I will be making a inventory management system. The app will notify when a produ
 ### Features
 a login,search functionality, low supply alert
 ### Technologies
-reactjs., jsx
+reactjs.
 ### What I'll Have to Learn
-reactjs., jsx
+reactjs.
 ### Project Tracker
 https://trello.com/joshrhodes23/boards
