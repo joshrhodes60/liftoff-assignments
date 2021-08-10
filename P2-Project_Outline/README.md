@@ -7,12 +7,20 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-I will be making a inventory management system. The app will notify when a product needs to be refilled. It will allow the user to keep up to date on when to refill supplies. The idea came from my current job.
+This project will be a inventory management system. This app will allow the user to manage when an item needs refilled. It will have a pie chart so you can see where the inventory is at and will feature an alert feature to notify you when the products reach a certain limit.
 ### Features
-a login,search functionality, low supply alert
+• User login: Allowing to login and manage the inventory.
+• Database: To hold all of the products data.
+• Pie chart: Visually seeing where the products inventory stands.
+• Alert feature: Notifying when a product needs refilled.
 ### Technologies
-reactjs.
+• Java
+• Spring Boot
+• MySQL
+• Hibernate
+• Thymeleaf templates
 ### What I'll Have to Learn
-reactjs.
+I will have to learn how to setup a pie chart for all products and have it show when each product gets low.
+
 ### Project Tracker
 https://trello.com/joshrhodes23/boards
