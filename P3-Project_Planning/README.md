@@ -17,3 +17,4 @@ https://trello.com/b/ITNqJQe3/liftoff
 ### Project Repo Link
 
 Include a link to your project on GitHub.
+https://github.com/joshrhodes60/Inventory-Management
